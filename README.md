@@ -4,4 +4,3 @@ In this project, the user can input their own set of 7 words and practice solvin
 
 The project launches a graphical user interface (GUI) that allows you to input a set of 7 letters and try to find words that use those letters, with the first word in the set becoming the center letter. The code automatically generates an answer key of all possible word combinations, and when you are done, you can choose to see all word combinations.
 
-![SpellingBee](https://github.com/user-attachments/assets/46c50805-a6c1-4412-a559-52b2d0f0d058)
